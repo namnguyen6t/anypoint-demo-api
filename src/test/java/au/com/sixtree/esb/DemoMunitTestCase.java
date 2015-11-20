@@ -14,7 +14,7 @@ public class DemoMunitTestCase extends FunctionalMunitSuite {
 	
 	@Test
 	public void testSomething() throws Exception {
-		System.out.println("hello go");
+		System.out.println("hello gocd");
 	}
 	
 	private static Properties serviceProperties = new Properties();// Loading
